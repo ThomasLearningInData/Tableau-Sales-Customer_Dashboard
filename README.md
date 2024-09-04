@@ -1,7 +1,7 @@
 # Tableau Sales Customer Dashboard
 You can download the working file for this interactive dashboard from this GitHub repository.
 
-## Result: 
+## Dashboard: 
 ![螢幕截圖 2024-09-04 下午12 45 24](https://github.com/user-attachments/assets/31d4d978-6f4e-4744-a887-8bc00e053a10)
 ![螢幕截圖 2024-09-04 下午12 45 45](https://github.com/user-attachments/assets/412a7cf5-6138-4793-be95-0f1a064ed8fe)
 ![螢幕截圖 2024-09-04 下午12 43 59](https://github.com/user-attachments/assets/e9bdf731-e57f-4f6f-a748-2fb9ef140782)
