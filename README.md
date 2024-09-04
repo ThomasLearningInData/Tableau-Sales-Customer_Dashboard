@@ -1,4 +1,4 @@
-# Tableau Sales Customer Dashboard
+# Tableau Sales & Customer Dashboard
 You can download the working file for this interactive dashboard from this GitHub repository.
 
 ## Dashboard: 
